@@ -4,8 +4,8 @@
 
 # Site
 title: 多大点事
-subtitle:
-description:
+subtitle: 博客
+description: 前端狗
 author: 李柏青
 language: zh-Hans
 timezone:
@@ -68,4 +68,8 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: git@github.com:libai0125/libai0125.github.io.git
+  branch: master
+
+avatar: /images/avatar.jpg
