@@ -1,8 +1,8 @@
 ---
 title: hexo博客常用命令笔记
 date: 2016-06-05 12:36:57
-tags: hexo
-categories: Blog
+tags: hexo博客
+categories: 教程
 description: hexo博客常用命令笔记,给Hexo点赞。
 ---
 ### hexo配置
