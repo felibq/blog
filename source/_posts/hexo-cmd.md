@@ -3,7 +3,6 @@ title: hexo博客常用命令笔记
 date: 2016-06-05 12:36:57
 tags: hexo博客
 categories: 教程
-description: hexo博客常用命令笔记,给Hexo点赞。
 ---
 ### hexo配置
 ***
@@ -19,6 +18,7 @@ hexo init #初始化
 `hexo g` == `hexo generate`#生成
 `hexo s` == `hexo server` #启动服务预览
 `hexo d` == `hexo deploy`#部署
+<!-- more -->
 ### 服务器
 ***
 `hexo server #Hexo` 会监视文件变动并自动更新，您无须重启服务器。
