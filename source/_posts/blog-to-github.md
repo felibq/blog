@@ -6,6 +6,7 @@ categories: 教程
 describle: 
 ---
 <img src="../../../../../images/github.jpg" class="full-image" />
+
 <!-- more -->
 ### 问题背景
 部署好本地的hexo 博客后，一开始用的推送到github上的方法是先执行

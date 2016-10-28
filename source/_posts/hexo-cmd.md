@@ -18,6 +18,7 @@ hexo init #初始化
 `hexo g` == `hexo generate`#生成
 `hexo s` == `hexo server` #启动服务预览
 `hexo d` == `hexo deploy`#部署
+
 <!-- more -->
 ### 服务器
 ***
